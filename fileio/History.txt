@@ -1,0 +1,2 @@
+1.0		 Add Day in      :1
+1.0		Cancel Day in     :1
